@@ -8,8 +8,8 @@
 /* Grid system */
 
 .container {
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 70px;
+  padding-left: 70px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -127,4 +127,40 @@
 .col-12 {
 	/* (12 / 12) x 100 */
 	width: 100%;
+}
+.offset-s1 {
+  margin-left: 8.3333333333%;
+}
+.offset-s2 {
+  margin-left: 16.6666666667%;
+}
+.offset-s3 {
+  margin-left: 25%;
+}
+.offset-s4 {
+  margin-left: 33.3333333333%;
+}
+.offset-s5 {
+  margin-left: 41.6666666667%;
+}
+.offset-s6 {
+  margin-left: 50%;
+}
+.offset-s7 {
+  margin-left: 58.3333333333%;
+}
+.offset-s8 {
+  margin-left: 66.6666666667%;
+}
+.offset-s9 {
+  margin-left: 75%;
+}
+.offset-s10 {
+  margin-left: 83.3333333333%;
+}
+.offset-s11 {
+  margin-left: 91.6666666667%;
+}
+.offset-s12 {
+  margin-left: 100%;
 }
